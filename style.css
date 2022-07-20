@@ -48,6 +48,7 @@ a:link,a:visited, a:hover ,a:active{
     padding-bottom: 15px;
     background-color: #1a471e;
     border-style: solid;
+    border-color: #1a471e;
     border-radius: 5px 5px 5px 5px;
 }
 .side2{
@@ -70,8 +71,8 @@ a:link,a:visited, a:hover ,a:active{
     max-width: 75%;
     width: 380px;
     position:absolute;
-    top:260px;
-    left: 795px;
+    top:250px;
+    left: 800px;
 }
 .btn-clone-position{
     font-family: "Poppins", sans-serif;
