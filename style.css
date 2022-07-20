@@ -1,0 +1,121 @@
+body{
+    background-color: #f2ebe3;
+}
+#logo{
+    position: absolute;
+    top: 60px;
+    left: 105px;
+}
+h1{
+    position: absolute;
+    top: 260px;
+    left: 110px;
+    font-family: "Poppins",sans-serif;
+    font-size: 3.5rem;
+}
+.yellow-font{
+    position: absolute;
+    font-size: 4.24rem;
+    color: #f7b300;
+    top: 50px;
+}
+li{
+    list-style: none;
+    display:inline;
+    margin-right: 30px;
+}
+a:link,a:visited, a:hover ,a:active{
+    text-decoration: none;
+    color: inherit;
+}
+.side1, .side2{
+    display: inline;
+}
+.side1{
+    color: #747474;
+    font-family: "Poppins", sans-serif;
+    font-weight:500;
+    position: absolute;
+    top: 65px;
+    left: 360px;
+}
+.btn-6{
+    font-size: 1.2rem;
+    color: white !important; 
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #1a471e;
+    border-style: solid, #133416;
+    border-radius: 5px 5px 5px 5px;
+}
+.side2{
+    color: #747474;
+    font-family: "Poppins", sans-serif;
+    position: absolute;
+    left: 910px;
+    top: 61px;
+}
+.h1-text{
+    font-family: "Poppins",sans-serif;
+    color: #747474;
+    position: absolute;
+    top: 450px;
+    left: 115px;
+    margin-bottom: 5px;
+}
+#hero-img{
+    height:auto;
+    max-width: 75%;
+    width: 380px;
+    position:absolute;
+    top:260px;
+    left: 795px;
+}
+.btn-clone-position{
+    font-family: "Poppins", sans-serif;
+    position: absolute;
+    top: 532px;
+    left:115px;
+}
+.text-clone-position{
+    position: absolute;
+    top: 610px;
+    left:115px;
+}
+#capterra{
+    position:absolute;
+    top:627px;
+    left:410px;
+}
+#alternativeto{
+    position: absolute;
+    top: 627px;
+    left: 450px;
+}
+#bottom-text{
+    position: absolute;
+    top:750px;
+    left: 455px;
+}
+#netflixlogo{
+    position:absolute;
+    top:825px;
+    left: 125px;
+}
+#shopifylogo{
+    position: absolute;
+    top:825px;
+    left: 385px;
+}
+#spotifylogo{
+    position: absolute;
+    top:825px;
+    left: 665px;
+}
+#walmartlogo{
+    position: absolute;
+    top:825px;
+    left:935px;
+}
