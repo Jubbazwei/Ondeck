@@ -47,7 +47,7 @@ a:link,a:visited, a:hover ,a:active{
     padding-top: 15px;
     padding-bottom: 15px;
     background-color: #1a471e;
-    border-style: solid, #133416;
+    border-style: solid;
     border-radius: 5px 5px 5px 5px;
 }
 .side2{
